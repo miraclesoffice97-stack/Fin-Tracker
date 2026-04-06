@@ -27,9 +27,13 @@ Run the code by entering "python FintrackerAcc.py"
 3. **Navigation**: 
 
    select (1) to view dashboard and see your progress (total income, total expenses and Available income)
-   select (2 / 3) to record incomes or expenses 2-for income 3-for expenses 
+   
+   select (2 / 3) to record incomes or expenses 2-for income 3-for expenses
+   
    select (4) to view Activity History to view record of incomes and expenses you have made..
+   
    select (5) to log-out you will be taken to the main menu...
+   
    select (6) to exit the program..
 
 easy and interesting to navigate 

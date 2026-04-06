@@ -1,0 +1,37 @@
+[
+    {
+        "Chidindu2": {
+            "total_income": 4764867.0,
+            "total_expenses": 2267899.0,
+            "available": 2496968.0,
+            "history": [
+                "income $6788.00 recorded 06-04-26, 02:35\n",
+                "income $679000.00 recorded 06-04-26, 02:35\n",
+                "income $678990.00 recorded 06-04-26, 02:35\n",
+                "income $900000.00 recorded 06-04-26, 02:35\n",
+                "income $2500000.00 recorded 06-04-26, 02:35\n",
+                "income $89.00 recorded 06-04-26, 02:35\n",
+                "expence $567899.00 recorded 06-04-26, 02:35\n",
+                "expence $700000.00 recorded 06-04-26, 02:35\n",
+                "expence $1000000.00 recorded 06-04-26, 02:35\n"
+            ]
+        }
+    },
+    {
+        "Miracle122": {
+            "total_income": 1660208.78766,
+            "total_expenses": 194532.89,
+            "available": 1465675.8976599998,
+            "history": [
+                "income $67899.00 recorded 06-04-26, 02:54\n",
+                "income $7878.00 recorded 06-04-26, 02:54\n",
+                "income $686554.00 recorded 06-04-26, 02:54\n",
+                "income $897877.79 recorded 06-04-26, 02:55\n",
+                "expence $58676.00 recorded 06-04-26, 02:55\n",
+                "expence $67000.00 recorded 06-04-26, 02:55\n",
+                "expence $78.89 recorded 06-04-26, 02:55\n",
+                "expence $68778.00 recorded 06-04-26, 02:55\n"
+            ]
+        }
+    }
+]

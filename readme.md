@@ -11,7 +11,7 @@ Fin_tracker is a tool used for 'monitoring' and 'recording' expenses and income 
 
 3. **Activity History**: Provides a section for user to view past record's of incomes and expenses with the date and time provided..
 
-4. **Dashboard**: provides a dashboard where the user can view total expenses and total income..
+4. **Dashboard**: provides a dashboard where the user can view total expenses, total income and Available income..
 
 5. **Data persistence**: Manages user's data for login and users activities (history, total income and expenses).
 

@@ -1,6 +1,6 @@
 # **Fin_Tracker**
 
-Fin_tracker is a system or tool used for 'monitoring' and 'recording' expenses and income for financial awareness management.
+Fin_tracker is a tool used for 'monitoring' and 'recording' expenses and income for financial management.
 
 
 ## **Features**
